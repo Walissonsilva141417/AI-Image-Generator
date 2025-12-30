@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { AutoAwesome, CreateRounded } from "@mui/icons-material";
-import TextInput from "../Input/TextInput";
+import TextInput from "../input/TextInput";
 import Button from "../buttons/button";
 import { CreatePost, GenerateImageFromPrompt } from "../../api";
 
